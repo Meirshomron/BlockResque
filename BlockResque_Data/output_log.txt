@@ -1,0 +1,107 @@
+Mono path[0] = 'C:/Users/meirs/OneDrive/מסמכים/First/gamr/Builds/BlockResque_Data/Managed'
+Mono path[1] = 'C:/Users/meirs/OneDrive/מסמכים/First/gamr/Builds/BlockResque_Data/Mono'
+Mono config path = 'C:/Users/meirs/OneDrive/מסמכים/First/gamr/Builds/BlockResque_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/meirs/OneDrive/מסמכים/First/gamr/Builds/BlockResque_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55425
+Multi-casting "[IP] 192.168.56.1 [Port] 55425 [Flags] 2 [Guid] 945403136 [EditorId] 1587405530 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-1JRCRL6) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55425]
+PlayerConnection already initialized - listening to [0.0.0.0:55425]
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R5 M335 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   16.200.2001.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.952 seconds
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\meirs\OneDrive\מסמכים\First\gamr\Builds\BlockResque_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.766918 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 15f8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.485038 ms
+System memory in use before: 59.4 MB.
+System memory in use after: 59.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 453.
+Total: 1.248396 ms (FindLiveObjects: 0.215703 ms CreateObjectMapping: 0.092049 ms MarkObjects: 0.874667 ms  DeleteObjects: 0.042271 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: e5c -> priority: 1 
+  Thread -> id: 1f5c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.572742 ms
+System memory in use before: 59.2 MB.
+System memory in use after: 59.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 0.638815 ms (FindLiveObjects: 0.065580 ms CreateObjectMapping: 0.058074 ms MarkObjects: 0.485136 ms  DeleteObjects: 0.026469 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 185c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.755168 ms
+System memory in use before: 59.2 MB.
+System memory in use after: 59.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 442.
+Total: 1.409186 ms (FindLiveObjects: 0.127210 ms CreateObjectMapping: 0.110617 ms MarkObjects: 0.853334 ms  DeleteObjects: 0.313679 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2930 -> priority: 1 
+  Thread -> id: 1928 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.631509 ms
+System memory in use before: 59.2 MB.
+System memory in use after: 59.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 1.298964 ms (FindLiveObjects: 0.146963 ms CreateObjectMapping: 0.118518 ms MarkObjects: 1.003457 ms  DeleteObjects: 0.026469 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.467163 ms
+System memory in use before: 59.2 MB.
+System memory in use after: 59.2 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 483.
+Total: 1.012149 ms (FindLiveObjects: 0.105876 ms CreateObjectMapping: 0.101926 ms MarkObjects: 0.779457 ms  DeleteObjects: 0.022123 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.081582 ms
+System memory in use before: 59.3 MB.
+System memory in use after: 59.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 792.
+Total: 2.188644 ms (FindLiveObjects: 0.177382 ms CreateObjectMapping: 0.170666 ms MarkObjects: 1.017285 ms  DeleteObjects: 0.819358 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c34 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.000102 ms
+System memory in use before: 59.5 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 18.509850 ms (FindLiveObjects: 0.250469 ms CreateObjectMapping: 0.077432 ms MarkObjects: 0.642766 ms  DeleteObjects: 17.535231 ms)
+
